@@ -1,0 +1,242 @@
+[
+  {
+    "Day": 1,
+    "Soup": "Mercimek Çorbası",
+    "MainDish": "Orman Kebabı",
+    "SideDish": "Pirinç Pilavı",
+    "Dessert": "Güllaç",
+    "TotalCalories": "840 kcal"
+  },
+  {
+    "Day": 2,
+    "Soup": "Ezogelin Çorbası",
+    "MainDish": "Karnıyarık",
+    "SideDish": "Cacık",
+    "Dessert": "Sütlaç",
+    "TotalCalories": "760 kcal"
+  },
+  {
+    "Day": 3,
+    "Soup": "Yayla Çorbası",
+    "MainDish": "Izgara Köfte",
+    "SideDish": "Patates Püresi",
+    "Dessert": "Revani",
+    "TotalCalories": "920 kcal"
+  },
+  {
+    "Day": 4,
+    "Soup": "Domates Çorbası",
+    "MainDish": "Tavuk Sote",
+    "SideDish": "Bulgur Pilavı",
+    "Dessert": "Kemalpaşa",
+    "TotalCalories": "810 kcal"
+  },
+  {
+    "Day": 5,
+    "Soup": "Tarhana Çorbası",
+    "MainDish": "Etli Kuru Fasulye",
+    "SideDish": "Turşu & Pilav",
+    "Dessert": "Kabak Tatlısı",
+    "TotalCalories": "890 kcal"
+  },
+  {
+    "Day": 6,
+    "Soup": "Şehriye Çorbası",
+    "MainDish": "Hasanpaşa Köfte",
+    "SideDish": "Erişte",
+    "Dessert": "Şekerpare",
+    "TotalCalories": "950 kcal"
+  },
+  {
+    "Day": 7,
+    "Soup": "Mantar Çorbası",
+    "MainDish": "Fırında Tavuk Patates",
+    "SideDish": "Mevsim Salata",
+    "Dessert": "Kazandibi",
+    "TotalCalories": "780 kcal"
+  },
+  {
+    "Day": 8,
+    "Soup": "Brokoli Çorbası",
+    "MainDish": "Hünkar Beğendi",
+    "SideDish": "Gavurdağı Salata",
+    "Dessert": "Trileçe",
+    "TotalCalories": "910 kcal"
+  },
+  {
+    "Day": 9,
+    "Soup": "Düğün Çorbası",
+    "MainDish": "Biber Dolması",
+    "SideDish": "Yoğurt",
+    "Dessert": "Kalburabastı",
+    "TotalCalories": "720 kcal"
+  },
+  {
+    "Day": 10,
+    "Soup": "Sebze Çorbası",
+    "MainDish": "Alinazik",
+    "SideDish": "Köz Biber",
+    "Dessert": "Baklava",
+    "TotalCalories": "980 kcal"
+  },
+  {
+    "Day": 11,
+    "Soup": "Analı Kızlı",
+    "MainDish": "Tas Kebabı",
+    "SideDish": "Patates Kızartması",
+    "Dessert": "Muhallebi",
+    "TotalCalories": "890 kcal"
+  },
+  {
+    "Day": 12,
+    "Soup": "Tutmaç Çorbası",
+    "MainDish": "Fırın Makarna",
+    "SideDish": "Rus Salatası",
+    "Dessert": "Mozaik Pasta",
+    "TotalCalories": "860 kcal"
+  },
+  {
+    "Day": 13,
+    "Soup": "Kremalı Tavuk",
+    "MainDish": "İslim Kebabı",
+    "SideDish": "Şehriyeli Pilav",
+    "Dessert": "Kadayıf",
+    "TotalCalories": "940 kcal"
+  },
+  {
+    "Day": 14,
+    "Soup": "Lebeniye",
+    "MainDish": "Kıymalı Pide (Ev Yapımı)",
+    "SideDish": "Ayran",
+    "Dessert": "Künefe",
+    "TotalCalories": "1050 kcal"
+  },
+  {
+    "Day": 15,
+    "Soup": "Erişteli Yeşil Mercimek",
+    "MainDish": "Mantı",
+    "SideDish": "Söğüş Salata",
+    "Dessert": "İrmik Helvası",
+    "TotalCalories": "930 kcal"
+  },
+  {
+    "Day": 16,
+    "Soup": "Kelle Paça (Yalancı)",
+    "MainDish": "Sac Kavurma",
+    "SideDish": "Lavaş",
+    "Dessert": "Tulumba",
+    "TotalCalories": "970 kcal"
+  },
+  {
+    "Day": 17,
+    "Soup": "Soğuk Ayran Aşı",
+    "MainDish": "Zeytinyağlı Enginar",
+    "SideDish": "Makarna",
+    "Dessert": "Meyve Tabağı",
+    "TotalCalories": "680 kcal"
+  },
+  {
+    "Day": 18,
+    "Soup": "Tavuk Suyu",
+    "MainDish": "Patlıcan Musakka",
+    "SideDish": "Cacık",
+    "Dessert": "Keşkül",
+    "TotalCalories": "790 kcal"
+  },
+  {
+    "Day": 19,
+    "Soup": "Balkabağı Çorbası",
+    "MainDish": "Kadınbudu Köfte",
+    "SideDish": "Piyaz",
+    "Dessert": "Ayva Tatlısı",
+    "TotalCalories": "850 kcal"
+  },
+  {
+    "Day": 20,
+    "Soup": "Yuvalama",
+    "MainDish": "Etli Nohut",
+    "SideDish": "Pirinç Pilavı",
+    "Dessert": "Supangle",
+    "TotalCalories": "880 kcal"
+  },
+  {
+    "Day": 21,
+    "Soup": "Gendime Çorbası",
+    "MainDish": "Tavuk Şiş",
+    "SideDish": "Bulgur Pilavı",
+    "Dessert": "Halka Tatlısı",
+    "TotalCalories": "820 kcal"
+  },
+  {
+    "Day": 22,
+    "Soup": "Sakala Çarpan",
+    "MainDish": "Lahmacun (Ev Usulü)",
+    "SideDish": "Bol Yeşillik",
+    "Dessert": "Dondurma",
+    "TotalCalories": "750 kcal"
+  },
+  {
+    "Day": 23,
+    "Soup": "Sütlü Çorba",
+    "MainDish": "Ciğer Sote",
+    "SideDish": "Sumaklı Soğan",
+    "Dessert": "Un Helvası",
+    "TotalCalories": "900 kcal"
+  },
+  {
+    "Day": 24,
+    "Soup": "Mahahluta",
+    "MainDish": "Kıymalı Bezelye",
+    "SideDish": "Makarna",
+    "Dessert": "Profiterol",
+    "TotalCalories": "860 kcal"
+  },
+  {
+    "Day": 25,
+    "Soup": "Arabaşı",
+    "MainDish": "Fırında Somon",
+    "SideDish": "Roka Salata",
+    "Dessert": "Tahinli Helva",
+    "TotalCalories": "740 kcal"
+  },
+  {
+    "Day": 26,
+    "Soup": "Muradiye",
+    "MainDish": "Beyti Kebabı",
+    "SideDish": "Yoğurtlu Patlıcan",
+    "Dessert": "Fıstıklı Sarma",
+    "TotalCalories": "990 kcal"
+  },
+  {
+    "Day": 27,
+    "Soup": "Beyran (Ev Usulü)",
+    "MainDish": "Kuzu Tandır",
+    "SideDish": "İç Pilav",
+    "Dessert": "Güllaç (Kadir Gecesi)",
+    "TotalCalories": "1100 kcal"
+  },
+  {
+    "Day": 28,
+    "Soup": "Pırasa Çorbası",
+    "MainDish": "Tavuklu Krep",
+    "SideDish": "Mısırlı Salata",
+    "Dessert": "Magnolia",
+    "TotalCalories": "770 kcal"
+  },
+  {
+    "Day": 29,
+    "Soup": "Kırmızı Mercimek",
+    "MainDish": "Dalyan Köfte",
+    "SideDish": "Patates Püresi",
+    "Dessert": "Şöbiyet",
+    "TotalCalories": "920 kcal"
+  },
+  {
+    "Day": 30,
+    "Soup": "Bayram Çorbası",
+    "MainDish": "Karışık Izgara",
+    "SideDish": "Tüm Mezeler",
+    "Dessert": "Ev Baklavası",
+    "TotalCalories": "1200 kcal"
+  }
+]
