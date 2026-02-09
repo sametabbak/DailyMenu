@@ -238,5 +238,13 @@
     "SideDish": "Tüm Mezeler",
     "Dessert": "Ev Baklavası",
     "TotalCalories": "1200 kcal"
+  },
+  {
+    "Day": 31,
+    "Soup": "Tarhana Çorbası",
+    "MainDish": "Adana Kebabı",
+    "SideDish": "Gavurdağı Salatası",
+    "Dessert": "İrmik Tatlısı",
+    "TotalCalories": "1240 kcal"
   }
 ]
