@@ -24,7 +24,10 @@
     "SideDish": "Patates Püresi",
     "Dessert": "Revani",
     "TotalCalories": "920 kcal",
-    "Tags": []
+    "Tags": [
+      "Proteinli",
+      "Sporcu"
+    ]
   },
   {
     "Day": 4,
@@ -33,7 +36,10 @@
     "SideDish": "Bulgur Pilavı",
     "Dessert": "Kemalpaşa",
     "TotalCalories": "810 kcal",
-    "Tags": []
+    "Tags": [
+      "Proteinli",
+      "Sporcu"
+    ]
   },
   {
     "Day": 5,
@@ -42,7 +48,9 @@
     "SideDish": "Turşu & Pilav",
     "Dessert": "Kabak Tatlısı",
     "TotalCalories": "890 kcal",
-    "Tags": []
+    "Tags": [
+      "Proteinli"
+    ]
   },
   {
     "Day": 6,
@@ -60,7 +68,10 @@
     "SideDish": "Mevsim Salata",
     "Dessert": "Kazandibi",
     "TotalCalories": "780 kcal",
-    "Tags": []
+    "Tags": [
+      "Proteinli",
+      "Sporcu"
+    ]
   },
   {
     "Day": 8,
@@ -78,7 +89,9 @@
     "SideDish": "Yoğurt",
     "Dessert": "Kalburabastı",
     "TotalCalories": "720 kcal",
-    "Tags": []
+    "Tags": [
+      "Proteinli"
+    ]
   },
   {
     "Day": 10,
@@ -96,7 +109,9 @@
     "SideDish": "Patates Kızartması",
     "Dessert": "Muhallebi",
     "TotalCalories": "890 kcal",
-    "Tags": []
+    "Tags": [
+      "Proteinli"
+    ]
   },
   {
     "Day": 12,
@@ -114,7 +129,9 @@
     "SideDish": "Şehriyeli Pilav",
     "Dessert": "Kadayıf",
     "TotalCalories": "940 kcal",
-    "Tags": []
+    "Tags": [
+      "Proteinli"
+    ]
   },
   {
     "Day": 14,
@@ -141,7 +158,9 @@
     "SideDish": "Lavaş",
     "Dessert": "Tulumba",
     "TotalCalories": "970 kcal",
-    "Tags": []
+    "Tags": [
+      "Proteinli"
+    ]
   },
   {
     "Day": 17,
@@ -150,7 +169,10 @@
     "SideDish": "Makarna",
     "Dessert": "Meyve Tabağı",
     "TotalCalories": "680 kcal",
-    "Tags": ["Vejetaryen", "Hafif"]
+    "Tags": [
+      "Vejetaryen",
+      "Hafif"
+    ]
   },
   {
     "Day": 18,
@@ -159,7 +181,9 @@
     "SideDish": "Cacık",
     "Dessert": "Keşkül",
     "TotalCalories": "790 kcal",
-    "Tags": []
+    "Tags": [
+      "Proteinli"
+    ]
   },
   {
     "Day": 19,
@@ -168,7 +192,10 @@
     "SideDish": "Piyaz",
     "Dessert": "Ayva Tatlısı",
     "TotalCalories": "850 kcal",
-    "Tags": []
+    "Tags": [
+      "Proteinli",
+      "Sporcu"
+    ]
   },
   {
     "Day": 20,
@@ -177,7 +204,10 @@
     "SideDish": "Pirinç Pilavı",
     "Dessert": "Supangle",
     "TotalCalories": "880 kcal",
-    "Tags": []
+    "Tags": [
+      "Proteinli",
+      "Sporcu"
+    ]
   },
   {
     "Day": 21,
@@ -186,7 +216,10 @@
     "SideDish": "Bulgur Pilavı",
     "Dessert": "Halka Tatlısı",
     "TotalCalories": "820 kcal",
-    "Tags": []
+    "Tags": [
+      "Proteinli",
+      "Sporcu"
+    ]
   },
   {
     "Day": 22,
@@ -213,7 +246,9 @@
     "SideDish": "Makarna",
     "Dessert": "Profiterol",
     "TotalCalories": "860 kcal",
-    "Tags": []
+    "Tags": [
+      "Proteinli"
+    ]
   },
   {
     "Day": 25,
@@ -222,7 +257,12 @@
     "SideDish": "Roka Salata",
     "Dessert": "Tahinli Helva",
     "TotalCalories": "740 kcal",
-    "Tags": ["Glutensiz"]
+    "Tags": [
+      "Az Karbonhidrat",
+      "Glutensiz",
+      "Proteinli",
+      "Sporcu"
+    ]
   },
   {
     "Day": 26,
@@ -231,7 +271,9 @@
     "SideDish": "Yoğurtlu Patlıcan",
     "Dessert": "Fıstıklı Sarma",
     "TotalCalories": "990 kcal",
-    "Tags": []
+    "Tags": [
+      "Proteinli"
+    ]
   },
   {
     "Day": 27,
@@ -240,7 +282,10 @@
     "SideDish": "İç Pilav",
     "Dessert": "Güllaç (Kadir Gecesi)",
     "TotalCalories": "1100 kcal",
-    "Tags": ["Glutensiz"]
+    "Tags": [
+      "Glutensiz",
+      "Proteinli"
+    ]
   },
   {
     "Day": 28,
@@ -258,7 +303,9 @@
     "SideDish": "Patates Püresi",
     "Dessert": "Şöbiyet",
     "TotalCalories": "920 kcal",
-    "Tags": []
+    "Tags": [
+      "Proteinli"
+    ]
   },
   {
     "Day": 30,
@@ -267,7 +314,9 @@
     "SideDish": "Tüm Mezeler",
     "Dessert": "Ev Baklavası",
     "TotalCalories": "1200 kcal",
-    "Tags": []
+    "Tags": [
+      "Proteinli"
+    ]
   },
   {
     "Day": 31,
@@ -276,7 +325,9 @@
     "SideDish": "Gavurdağı Salatası",
     "Dessert": "İrmik Tatlısı",
     "TotalCalories": "1240 kcal",
-    "Tags": []
+    "Tags": [
+      "Proteinli"
+    ]
   },
   {
     "Day": 32,
@@ -285,7 +336,11 @@
     "SideDish": "Pirinç Pilavı",
     "Dessert": "Meyve Salatası",
     "TotalCalories": "480 kcal",
-    "Tags": ["Vejetaryen", "Glutensiz", "Hafif"]
+    "Tags": [
+      "Vejetaryen",
+      "Glutensiz",
+      "Hafif"
+    ]
   },
   {
     "Day": 33,
@@ -294,7 +349,13 @@
     "SideDish": "Söğüş Salata",
     "Dessert": "Elma Kompostosu",
     "TotalCalories": "420 kcal",
-    "Tags": ["Vejetaryen", "Glutensiz", "Hafif"]
+    "Tags": [
+      "Az Karbonhidrat",
+      "Glutensiz",
+      "Hafif",
+      "Proteinli",
+      "Vejetaryen"
+    ]
   },
   {
     "Day": 34,
@@ -303,7 +364,13 @@
     "SideDish": "Yoğurt",
     "Dessert": "Kavun",
     "TotalCalories": "430 kcal",
-    "Tags": ["Vejetaryen", "Glutensiz", "Hafif"]
+    "Tags": [
+      "Az Karbonhidrat",
+      "Glutensiz",
+      "Hafif",
+      "Proteinli",
+      "Vejetaryen"
+    ]
   },
   {
     "Day": 35,
@@ -312,7 +379,10 @@
     "SideDish": "Pirinç Pilavı",
     "Dessert": "Sütlaç",
     "TotalCalories": "640 kcal",
-    "Tags": ["Vejetaryen", "Glutensiz"]
+    "Tags": [
+      "Vejetaryen",
+      "Glutensiz"
+    ]
   },
   {
     "Day": 36,
@@ -321,7 +391,12 @@
     "SideDish": "Cacık",
     "Dessert": "Kabak Tatlısı",
     "TotalCalories": "580 kcal",
-    "Tags": ["Vejetaryen", "Glutensiz"]
+    "Tags": [
+      "Glutensiz",
+      "Proteinli",
+      "Sporcu",
+      "Vejetaryen"
+    ]
   },
   {
     "Day": 37,
@@ -330,7 +405,10 @@
     "SideDish": "Yoğurt",
     "Dessert": "Muhallebi",
     "TotalCalories": "610 kcal",
-    "Tags": ["Vejetaryen", "Glutensiz"]
+    "Tags": [
+      "Vejetaryen",
+      "Glutensiz"
+    ]
   },
   {
     "Day": 38,
@@ -339,7 +417,10 @@
     "SideDish": "Pirinç Pilavı",
     "Dessert": "Sütlaç",
     "TotalCalories": "660 kcal",
-    "Tags": ["Vejetaryen", "Glutensiz"]
+    "Tags": [
+      "Vejetaryen",
+      "Glutensiz"
+    ]
   },
   {
     "Day": 39,
@@ -348,7 +429,10 @@
     "SideDish": "Pirinç Pilavı",
     "Dessert": "Kazandibi",
     "TotalCalories": "620 kcal",
-    "Tags": ["Vejetaryen", "Glutensiz"]
+    "Tags": [
+      "Vejetaryen",
+      "Glutensiz"
+    ]
   },
   {
     "Day": 40,
@@ -357,7 +441,13 @@
     "SideDish": "Köz Biber",
     "Dessert": "Muhallebi",
     "TotalCalories": "490 kcal",
-    "Tags": ["Vejetaryen", "Glutensiz", "Hafif"]
+    "Tags": [
+      "Az Karbonhidrat",
+      "Glutensiz",
+      "Hafif",
+      "Proteinli",
+      "Vejetaryen"
+    ]
   },
   {
     "Day": 41,
@@ -366,7 +456,11 @@
     "SideDish": "Cacık",
     "Dessert": "Meyve Salatası",
     "TotalCalories": "490 kcal",
-    "Tags": ["Vejetaryen", "Glutensiz", "Hafif"]
+    "Tags": [
+      "Vejetaryen",
+      "Glutensiz",
+      "Hafif"
+    ]
   },
   {
     "Day": 42,
@@ -375,7 +469,10 @@
     "SideDish": "Pirinç Pilavı",
     "Dessert": "Sütlaç",
     "TotalCalories": "670 kcal",
-    "Tags": ["Vejetaryen", "Glutensiz"]
+    "Tags": [
+      "Vejetaryen",
+      "Glutensiz"
+    ]
   },
   {
     "Day": 43,
@@ -384,7 +481,9 @@
     "SideDish": "Cacık",
     "Dessert": "Revani",
     "TotalCalories": "680 kcal",
-    "Tags": ["Vejetaryen"]
+    "Tags": [
+      "Vejetaryen"
+    ]
   },
   {
     "Day": 44,
@@ -393,7 +492,9 @@
     "SideDish": "Mevsim Salata",
     "Dessert": "Şekerpare",
     "TotalCalories": "780 kcal",
-    "Tags": ["Vejetaryen"]
+    "Tags": [
+      "Vejetaryen"
+    ]
   },
   {
     "Day": 45,
@@ -402,7 +503,9 @@
     "SideDish": "Cacık",
     "Dessert": "Sütlaç",
     "TotalCalories": "720 kcal",
-    "Tags": ["Vejetaryen"]
+    "Tags": [
+      "Vejetaryen"
+    ]
   },
   {
     "Day": 46,
@@ -411,7 +514,9 @@
     "SideDish": "Yoğurt Sosu",
     "Dessert": "Trileçe",
     "TotalCalories": "690 kcal",
-    "Tags": ["Vejetaryen"]
+    "Tags": [
+      "Vejetaryen"
+    ]
   },
   {
     "Day": 47,
@@ -420,7 +525,9 @@
     "SideDish": "Mevsim Salata",
     "Dessert": "Profiterol",
     "TotalCalories": "750 kcal",
-    "Tags": ["Vejetaryen"]
+    "Tags": [
+      "Vejetaryen"
+    ]
   },
   {
     "Day": 48,
@@ -429,7 +536,12 @@
     "SideDish": "Yoğurt",
     "Dessert": "Elma Kompostosu",
     "TotalCalories": "440 kcal",
-    "Tags": ["Vejetaryen", "Glutensiz", "Hafif"]
+    "Tags": [
+      "Az Karbonhidrat",
+      "Glutensiz",
+      "Hafif",
+      "Vejetaryen"
+    ]
   },
   {
     "Day": 49,
@@ -438,7 +550,12 @@
     "SideDish": "Peynir Tabağı",
     "Dessert": "Meyve Salatası",
     "TotalCalories": "390 kcal",
-    "Tags": ["Vejetaryen", "Glutensiz", "Hafif"]
+    "Tags": [
+      "Az Karbonhidrat",
+      "Glutensiz",
+      "Hafif",
+      "Vejetaryen"
+    ]
   },
   {
     "Day": 50,
@@ -447,7 +564,11 @@
     "SideDish": "Köz Sebze",
     "Dessert": "Sütlaç",
     "TotalCalories": "640 kcal",
-    "Tags": ["Glutensiz"]
+    "Tags": [
+      "Glutensiz",
+      "Proteinli",
+      "Sporcu"
+    ]
   },
   {
     "Day": 51,
@@ -456,7 +577,10 @@
     "SideDish": "Pirinç Pilavı",
     "Dessert": "Kabak Tatlısı",
     "TotalCalories": "980 kcal",
-    "Tags": ["Glutensiz"]
+    "Tags": [
+      "Glutensiz",
+      "Proteinli"
+    ]
   },
   {
     "Day": 52,
@@ -465,7 +589,11 @@
     "SideDish": "Nohut Piyazı",
     "Dessert": "Muhallebi",
     "TotalCalories": "820 kcal",
-    "Tags": ["Glutensiz"]
+    "Tags": [
+      "Glutensiz",
+      "Proteinli",
+      "Sporcu"
+    ]
   },
   {
     "Day": 53,
@@ -474,7 +602,10 @@
     "SideDish": "Pirinç Pilavı",
     "Dessert": "Kazandibi",
     "TotalCalories": "870 kcal",
-    "Tags": ["Glutensiz"]
+    "Tags": [
+      "Glutensiz",
+      "Proteinli"
+    ]
   },
   {
     "Day": 54,
@@ -483,7 +614,12 @@
     "SideDish": "Zeytinyağlı Semizotu",
     "Dessert": "Meyve Tabağı",
     "TotalCalories": "540 kcal",
-    "Tags": ["Glutensiz", "Hafif"]
+    "Tags": [
+      "Az Karbonhidrat",
+      "Glutensiz",
+      "Hafif",
+      "Proteinli"
+    ]
   },
   {
     "Day": 55,
@@ -492,7 +628,12 @@
     "SideDish": "Köz Sebze",
     "Dessert": "Elma Kompostosu",
     "TotalCalories": "520 kcal",
-    "Tags": ["Glutensiz", "Hafif"]
+    "Tags": [
+      "Az Karbonhidrat",
+      "Glutensiz",
+      "Hafif",
+      "Proteinli"
+    ]
   },
   {
     "Day": 56,
@@ -501,7 +642,12 @@
     "SideDish": "Roka Salatası",
     "Dessert": "Meyve Tabağı",
     "TotalCalories": "560 kcal",
-    "Tags": ["Glutensiz", "Hafif"]
+    "Tags": [
+      "Az Karbonhidrat",
+      "Glutensiz",
+      "Hafif",
+      "Proteinli"
+    ]
   },
   {
     "Day": 57,
@@ -510,7 +656,13 @@
     "SideDish": "Söğüş Salata",
     "Dessert": "Yoğurt",
     "TotalCalories": "580 kcal",
-    "Tags": ["Glutensiz", "Hafif"]
+    "Tags": [
+      "Az Karbonhidrat",
+      "Glutensiz",
+      "Hafif",
+      "Proteinli",
+      "Sporcu"
+    ]
   },
   {
     "Day": 58,
@@ -519,7 +671,10 @@
     "SideDish": "Pirinç Pilavı",
     "Dessert": "Sütlaç",
     "TotalCalories": "860 kcal",
-    "Tags": ["Glutensiz"]
+    "Tags": [
+      "Glutensiz",
+      "Proteinli"
+    ]
   },
   {
     "Day": 59,
@@ -528,7 +683,12 @@
     "SideDish": "Mevsim Salata",
     "Dessert": "Meyve Tabağı",
     "TotalCalories": "620 kcal",
-    "Tags": ["Glutensiz", "Hafif"]
+    "Tags": [
+      "Glutensiz",
+      "Hafif",
+      "Proteinli",
+      "Sporcu"
+    ]
   },
   {
     "Day": 60,
@@ -537,6 +697,10 @@
     "SideDish": "Pirinç Pilavı",
     "Dessert": "Muhallebi",
     "TotalCalories": "550 kcal",
-    "Tags": ["Vejetaryen", "Glutensiz", "Hafif"]
+    "Tags": [
+      "Vejetaryen",
+      "Glutensiz",
+      "Hafif"
+    ]
   }
 ]
